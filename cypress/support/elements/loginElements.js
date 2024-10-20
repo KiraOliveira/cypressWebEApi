@@ -1,4 +1,3 @@
-
 class loginElements {
 
     logoSwag = () => { return '.login_logo' }

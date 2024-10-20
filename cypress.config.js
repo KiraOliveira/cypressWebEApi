@@ -13,6 +13,7 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
     env: { hideXhr: true },
-    baseUrl: 'https://www.saucedemo.com'
+    baseUrl: 'https://www.saucedemo.com',
+    chromeWebSecurity:false
   },
 });
